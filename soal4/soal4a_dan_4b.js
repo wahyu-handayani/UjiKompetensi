@@ -39,3 +39,5 @@ app.get('/4b',(req, res) => {
 app.listen(7000, () => {
   console.log('Server is running...');
 });
+
+// untuk soal no. 4b, tanggal kadaluarsa obat-obat yang akan kadaluarsa 7 hari kedepan ditampilakan pada tanggal 2020-02-21
